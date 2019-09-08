@@ -25,3 +25,13 @@ body {
   width: 70%;
   max-width: 100%;
 }
+
+.mosque-screen__preview-wrapper {
+  width: 100%;
+  max-width: 100%;
+}
+
+.mosque-screen__preview {
+  width: 100%;
+  max-width: 100%;
+}
