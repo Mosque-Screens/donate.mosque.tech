@@ -15,10 +15,6 @@
   font-family: 'Open Sans', sans-serif;
 }
 
-.govuk-button:active,
-.govuk-button:hover,
-.govuk-button,
-.govuk-button:visited {
-  /* background-color: #009688; */
+.govuk-button {
   padding: 15px;
 }
