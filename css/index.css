@@ -1,0 +1,27 @@
+/* 
+  BRAND COLORS
+  #6156a5 - DARK PURPLE
+  #a2469a - LIGHT PURPLE
+*/
+
+/* GENERIC */
+body {
+       margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.mosque-screen__banner {
+  background-color: #6156a5;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-bottom: 50px;
+}
+
+.mosque-screen__logo-wrapper {
+  text-align: center;
+}
+
+.mosque-screen__logo {
+  width: 70%;
+  max-width: 100%;
+}

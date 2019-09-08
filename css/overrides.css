@@ -1,0 +1,23 @@
+/* GOV.UK frontend overrides */
+.govuk-heading-s,
+.govuk-heading-l,
+.govuk-heading-xl,
+.govuk-heading-m,
+.govuk-button {
+  font-family: 'Varela Round', sans-serif;
+}
+
+.govuk-hint,
+.govuk-body,
+.govuk-list,
+.govuk-label {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.govuk-button:active,
+.govuk-button:hover,
+.govuk-button:link,
+.govuk-button:visited {
+  background-color: #009688;
+  padding: 15px;
+}
