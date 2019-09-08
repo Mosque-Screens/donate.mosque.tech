@@ -3,6 +3,7 @@
 .govuk-heading-l,
 .govuk-heading-xl,
 .govuk-heading-m,
+.govuk-panel__title,
 .govuk-button {
   font-family: 'Varela Round', sans-serif;
 }
@@ -17,4 +18,8 @@
 
 .govuk-button {
   padding: 15px;
+}
+
+.text-white {
+  color: #fff !important;
 }

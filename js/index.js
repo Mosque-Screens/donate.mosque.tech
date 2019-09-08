@@ -18,7 +18,7 @@ checkoutButton.addEventListener('click', function () {
       // Instead use one of the strategies described in
       // https://stripe.com/docs/payments/checkout/fulfillment
       successUrl: 'https://donate.mosque.tech/success.html',
-      cancelUrl: 'https://donate.mosque.tech/canceled.html',
+      cancelUrl: 'https://donate.mosque.tech/cancelled.html',
     })
     .then(function (result) {
       if (result.error) {
