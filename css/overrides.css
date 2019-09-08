@@ -19,6 +19,6 @@
 .govuk-button:hover,
 .govuk-button,
 .govuk-button:visited {
-  background-color: #009688;
+  /* background-color: #009688; */
   padding: 15px;
 }
