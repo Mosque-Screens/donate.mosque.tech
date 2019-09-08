@@ -10,13 +10,14 @@
 .govuk-hint,
 .govuk-body,
 .govuk-list,
+.govuk-inset-text,
 .govuk-label {
   font-family: 'Open Sans', sans-serif;
 }
 
 .govuk-button:active,
 .govuk-button:hover,
-.govuk-button:link,
+.govuk-button,
 .govuk-button:visited {
   background-color: #009688;
   padding: 15px;
